@@ -43,8 +43,6 @@ I'm a web designer & developer based in the UK - passionate about building clean
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sam-May-Futurelab&theme=onestar&row=1&column=6)
 
-![Contribution Snake](https://github.com/Sam-May-Futurelab/Sam-May-Futurelab/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🌐 Find Me Online
