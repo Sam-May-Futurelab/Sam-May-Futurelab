@@ -14,6 +14,12 @@ I'm a web designer & developer based in the UK - passionate about building clean
 
 ---
 
+## 🌟🌟 Latest Project 
+
+  [Inkfluenceai.com](https://www.inkfluenceai.com/)
+
+---
+
 ## 🌟 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
