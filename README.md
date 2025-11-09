@@ -16,7 +16,7 @@ I'm a web designer & developer based in the UK - passionate about building clean
 
 ## 🌟🌟 Latest Project 
 
-  [Inkfluenceai.com](https://www.inkfluenceai.com/)
+  [Inkfluenceai.com](https://www.inkfluenceai.com/) | Turn your idea into a complete book in minutes. AI-powered writing, audiobook creation, and professional publishing. All in one platform. |
 
 ---
 
