@@ -1,10 +1,10 @@
 # 🚀 Hi, I'm Sam
 
-I'm a web designer & developer based in the UK — passionate about building clean, fast, responsive digital products that look just as good on mobile as they do on desktop.
+I'm a web designer & developer based in the UK - passionate about building clean, fast, responsive digital products that look just as good on mobile as they do on desktop.
 
 ---
 
-## 🌟 My SaaS — Inkfluence AI
+## 🌟 My SaaS - Inkfluence AI
 
 👉 **Inkfluence AI** — https://inkfluenceai.com  
 Create complete ebooks & audiobooks in minutes with AI-powered chapter writing, cover design, voice narration, and instant export tools.
@@ -32,7 +32,7 @@ Create complete ebooks & audiobooks in minutes with AI-powered chapter writing, 
 ## 🔥 Latest Project
 
 ### **Inkfluence AI**  
-A full ebook & audiobook creation platform built entirely solo — combining AI writing, design automation, cloud storage, and content export into one seamless workflow.
+A full ebook & audiobook creation platform built entirely solo - combining AI writing, design automation, cloud storage, and content export into one seamless workflow.
 
 ---
 
