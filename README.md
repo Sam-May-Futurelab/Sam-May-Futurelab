@@ -6,7 +6,7 @@ I'm a web designer & developer based in the UK - passionate about building clean
 
 ## 🌟 My SaaS - Inkfluence AI
 
-👉 **Inkfluence AI** — https://inkfluenceai.com  
+👉 **Inkfluence AI**: https://inkfluenceai.com  
 Create complete ebooks & audiobooks in minutes with AI-powered chapter writing, cover design, voice narration, and instant export tools.
 
 ---
