@@ -1,6 +1,10 @@
 ## 🚀 Hi, I'm Sam
 I'm a web designer & developer based in the UK - passionate about building clean, fast, responsive websites that look just as good on mobile as they do on desktop.
 
+## 🌟 Check Out My SaaS  
+👉 **Inkfluence AI** — https://inkfluenceai.com  
+AI-powered ebook & audiobook creation in minutes.
+
 💡 Founder of [**Futurelab Solutions**](https://www.futurelab.solutions) - a creative development studio focused on delivering pixel-perfect design and scalable front-end architecture for modern brands.
 
 ---
