@@ -1,48 +1,53 @@
-# 🚀 Hi, I'm Sam
+# Hi, I'm Sam 👋
 
-I'm a web designer & developer based in the UK - passionate about building clean, fast, responsive digital products that look just as good on mobile as they do on desktop.
+Founder of **Inkfluence AI**, building AI-powered tools that make creating and publishing digital content faster and easier.
 
----
+## 🚀 Inkfluence AI
 
-## 🌟 My SaaS - Inkfluence AI
+**Inkfluence AI** is an AI-powered platform for creating complete ebooks, workbooks, audiobooks and digital products.
 
-👉 **Inkfluence AI**: https://inkfluenceai.com  
-Create complete ebooks & audiobooks in minutes with AI-powered chapter writing, cover design, voice narration, and instant export tools.
+From a simple idea, users can generate and edit long-form content, create covers, produce audiobooks and export finished projects for publishing.
 
----
+🌐 **Inkfluence AI:** https://inkfluenceai.com
 
-## 🧠 What I Do
+## 🛠 What I Build
 
-- 🎨 **Custom Web Design & Development**
-- 🧠 **Brand-focused UI/UX** with motion & interactivity
-- 🛍 **Shopify & eCommerce builds**
-- ⚡ **Speed, SEO & responsiveness** by default
-- 🤖 **AI-powered pages** that generate content & boost ROI
+I enjoy building and shipping practical software, particularly around:
 
----
+- 🤖 AI-powered applications
+- 🌐 SaaS products
+- 🎨 UI/UX and product design
+- ⚡ Web applications
+- 📱 Mobile applications
+- 🔎 SEO and organic growth
+- 🛠 Automation and internal tooling
 
-## 🛠 Tech & Tools
+## 💻 Tech
 
-**Languages:** HTML, CSS, JavaScript, TypeScript  
-**Frameworks:** Flutter, Shopify, Liquid  
-**Tools:** VS Code, Firebase, Cloudflare, Supabase
+**Languages**
+JavaScript · TypeScript · HTML · CSS · Dart · Python
 
----
+**Frameworks & Platforms**
+Flutter · Next.js · Firebase · Supabase · Cloudflare
 
-## 🔥 Latest Project
+**Tools**
+GitHub · VS Code · Figma
 
-### **Inkfluence AI**  
-A full ebook & audiobook creation platform built entirely solo - combining AI writing, design automation, cloud storage, and content export into one seamless workflow.
+## 🔨 Current Projects
 
----
+### Inkfluence AI
+AI-powered ebook, workbook and audiobook creation platform.
 
-## 🌐 Find Me Online
-
-- Website: https://futurelab.solutions
-- X: https://x.com/samfuturelab  
-- TikTok: https://www.tiktok.com/@futurelabsolutions  
-- LinkedIn: https://linkedin.com/in/sam-may-  
+### CareRulebook
+A structured reference platform for care-sector rules, guidance and compliance information.
 
 ---
 
-> *“Building better websites one pixel at a time.”*
+### Find me
+
+🌐 https://inkfluenceai.com  
+💼 LinkedIn: https://linkedin.com/in/sam-may-
+
+---
+
+*Building useful products and shipping them.*
