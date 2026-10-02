@@ -45,8 +45,7 @@ A structured reference platform for care-sector rules, guidance and compliance i
 
 ### Find me
 
-🌐 https://inkfluenceai.com  
-💼 LinkedIn: https://linkedin.com/in/sam-may-
+🌐 https://inkfluenceai.com
 
 ---
 
